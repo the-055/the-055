@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visualstudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual Studio%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white" />
 </div>
 
